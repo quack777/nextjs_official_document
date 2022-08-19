@@ -12,8 +12,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[조은총이라고 합니다.]</p>
-        <p>(조은총)</p>
+        <p>[공식 문서 보고 공부하는 거 왜 지금까지 안했니 은총아]</p>
+        <p>(공식 문서가 짱이다 ㄹㅇ)</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
